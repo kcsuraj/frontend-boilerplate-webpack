@@ -16,7 +16,7 @@ git clone
 Cd into the project folder
 
 ```bash
-cd frontend-boilerplate
+cd frontend-boilerplate-webpack
 ```
 
 Install yarn modules
