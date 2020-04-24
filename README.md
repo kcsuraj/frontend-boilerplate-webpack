@@ -46,7 +46,6 @@ yarn start
 ## Folder structure
 
 <pre>
-webpack-bulma/
 ├── src/
 │   ├── sass
 │   │   └── main.scss
