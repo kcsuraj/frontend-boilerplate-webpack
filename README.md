@@ -1,5 +1,4 @@
-
-<h1>Frontend Boilerplate with Webpack</h1>
+# Frontend Boilerplate with Webpack
 
 ## Prerequisites
 
@@ -7,19 +6,7 @@
 
 ## Usage
 
-Clone the repo:
-
-```bash
-git clone
-```
-
-Cd into the project folder
-
-```bash
-cd frontend-boilerplate-webpack
-```
-
-Install yarn modules
+Install packages
 
 ```bash
 yarn
@@ -43,16 +30,8 @@ For development you can use:
 yarn start
 ```
 
-## Folder structure
+Prettify files:
 
-<pre>
-├── src/
-│   ├── sass
-│   │   └── main.scss
-│   ├── templates/index.html
-│   └── app.js  # main webpack entry file
-├── .gitignore
-├── package.json
-├── README.md
-└── webpack.config.js
-</pre>
+```bash
+yarn prettier
+```
